@@ -30,7 +30,10 @@ crossorigin="anonymous"></script>
 </head>
 <body>
 <div class="container">
-Test
+
+<div class="col-md-12 col-xs-12">
+{{.Markdown "beschreibung.md"}}
+</div>
 
 <div class="col-md-12 col-xs-12">
 <div class="panel panel-warning">
@@ -50,6 +53,24 @@ Test
 </div>
 </div>
 
+<div class="col-md-6 col-xs-12">
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">Adresse</h3>
+  </div>
+{{.Markdown "adresse.md"}}
+</div>
+</div>
+
+<div class="col-md-12 col-xs-12">
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">Fachgebiete</h3>
+  </div>
+{{.Markdown "fachgebiete.md"}}
+</div>
+</div>
+  
 </div>
 <script>
 $("table").addClass("table table-striped");
