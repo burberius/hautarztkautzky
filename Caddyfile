@@ -1,5 +1,9 @@
 :7777
-
-# gzip
-
+root site
+#gzip
+log access.log
 templates
+git {
+  repo github.com/burberius/hautarztkautzky
+  hook /_webhook some-key
+}
