@@ -1,3 +1,3 @@
-**Urlaub** vom 5.2. - 10.2.2017
+**keine offene Sprechstunde** am Dienstag, den 28.02.2017*
+**Urlaub** vom 08.03. - 10.03.2017
 
-**Großes Screening** 7.3.2017
