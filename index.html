@@ -36,20 +36,24 @@ crossorigin="anonymous"></script>
 <img id="owl" src="owl.png"/>
 
 <h1>Hautarztpraxis Frau Dipl.-Med. Oda Kautzky</h1>
-  
+
 <div class="col-md-12 col-xs-12">
-{{.Markdown "beschreibung.md"}}
-</div>
+{{.Markdown "vorwort.md"}}
+</div>  
 
 <div class="col-md-12 col-xs-12">
 <div class="panel panel-warning">
   <div class="panel-heading">
-    <h3 class="panel-title">Mitteilungen</h3>
+    <h3 class="panel-title">Ank&uuml;ndigungen</h3>
   </div>
   <div class="panel-body">
     {{.Markdown "mitteilungen.md"}}
   </div>
 </div>
+</div>
+
+<div class="col-md-12 col-xs-12">
+{{.Markdown "beschreibung.md"}}
 </div>
 
 <div class="col-md-6 col-xs-12">
