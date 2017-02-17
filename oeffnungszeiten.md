@@ -5,4 +5,4 @@
 |Mi |9:00 - 12:00 und 16:00 - 18:00 |
 |Do |Hausbesuche|
 |Fr |8:00 - 11:00|
-Achtung! Ihr Bestelltermin kann abweichen.
+  Achtung! Ihr Bestelltermin kann von diesen Zeiten abweichen.
